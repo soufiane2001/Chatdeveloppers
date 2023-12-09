@@ -9,13 +9,13 @@ import { getDatabase } from "firebase/database";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyD9V6XyTitN6CXO9XkbupgkPb0vrDPPuZg",
-    authDomain: "realtima-auth.firebaseapp.com",
-    databaseURL: "https://realtima-auth-default-rtdb.firebaseio.com",
-    projectId: "realtima-auth",
-    storageBucket: "realtima-auth.appspot.com",
-    messagingSenderId: "95925375333",
-    appId: "1:95925375333:web:320262a9381aacaded118c"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 
 // Initialize Firebase
